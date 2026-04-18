@@ -1,0 +1,5 @@
+.env
+node_modules/
+seen_episodes.txt
+last_run.txt
+poddigest.log
